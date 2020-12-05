@@ -1,6 +1,10 @@
 # Banco de Dados
 
 <div >
+<h3>esse projeto foi desenvolvido utilizando um servidor PHP dentro de um container docker, abaixo segue o README original do script de montagem do ambiente docker utilizado para rodar este projeto, o README e script original foram feitos por @hpbonfim, ao fim terá instruções extras para a instalção de dependências do projeto react</h3>
+<br>
+<br>
+<br>
 <p> Para realizar os exercícios de banco de dados</p>
 <h2>1. Instalar o Docker</h2>
 <a href="https://blog.qaninja.io/instalando-o-docker/">Como instalar no Ubuntu / Mac / Windows</a>
@@ -90,5 +94,10 @@
 <h3>4. Pronto para realizar as tarefas</h3>
 <a href="imagens/imagens_workbench/5_pronto.png"><img src="imagens/imagens_workbench/5_pronto.png" width="50%"/></a>
 <hr>
+
+<h1>Para obter todas as dependências do projeto React<h1>
+<p>utilize o comando <code>"npm install"</code> na pasta</p>
+<br>
+<p>e para iniciar o servidor utilize <code>"npm start"</code></p>
 
 </div>
