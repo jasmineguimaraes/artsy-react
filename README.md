@@ -95,9 +95,11 @@
 <a href="imagens/imagens_workbench/5_pronto.png"><img src="imagens/imagens_workbench/5_pronto.png" width="50%"/></a>
 <hr>
 
-<h1>Para obter todas as dependências do projeto React<h1>
-<p>utilize o comando <code>"npm install"</code> na pasta</p>
+<h3>5. Para obter todas as dependências do projeto React<h3>
+<ul>
+<li>utilize o comando <code>"npm install"</code> na pasta</li>
 <br>
-<p>e para iniciar o servidor utilize <code>"npm start"</code></p>
+<li>e para iniciar o servidor utilize <code>"npm start"</code></li>
+</ul>
 
 </div>
